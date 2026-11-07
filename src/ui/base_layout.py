@@ -77,9 +77,9 @@ html, body, .stApp {
     color: var(--text-primary) !important;
 }
 
-# /* hide Streamlit chrome */
-# #MainMenu, header, footer { visibility: hidden; }
-# .block-container { padding-top: 5rem !important; }
+/* hide Streamlit chrome */
+#MainMenu, header, footer { visibility: hidden; }
+.block-container { padding-top: 5rem !important; }
 
 /* ── Typography ──────────────────────────────────────────────────── */
 h1 {
