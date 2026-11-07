@@ -10,7 +10,7 @@ from src.components.dialog_auto_enroll import auto_enroll_dialog
 def main():
 
     st.set_page_config(
-        page_title="SNAP CLASS - Making attendance faster using AI",
+        page_title="UNIVO - Making attendance faster using AI",
         page_icon="https://i.ibb.co/YTYGn5qV/logo.png"
     )
 

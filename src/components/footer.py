@@ -9,8 +9,8 @@ def footer_home():
         st.markdown (f"""
 
                 <div style="margin-top:2rem; display: flex; gap:6px; justify-content:center; align-items:center">
-                    <p style="font-weight:bold; color:var(--text-secondary)"> Created with love by </p>
-                    <img src='{logo_url}' style='max-height:25px' />
+                    <p style="font-weight:bold; color:var(--text-secondary)"> Created by MANJOT SINGH</p>
+                    
                 </div>
 
                 """, unsafe_allow_html=True)
@@ -24,8 +24,8 @@ def footer_dashboard():
         st.markdown (f"""
 
                 <div style="margin-top:2rem; display: flex; gap:6px; justify-content:center; align-items:center">
-                    <p style="font-weight:bold; color:var(--text-secondary)"> Created with love by </p>
-                    <img src='{logo_url}' style='max-height:25px' />
+                    <p style="font-weight:bold; color:var(--text-secondary)"> Created by MANJOT SINGH </p>
+                    
                 </div>
 
                 """, unsafe_allow_html=True)

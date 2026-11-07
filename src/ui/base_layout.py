@@ -77,9 +77,9 @@ html, body, .stApp {
     color: var(--text-primary) !important;
 }
 
-/* hide Streamlit chrome */
-#MainMenu, header, footer { visibility: hidden; }
-.block-container { padding-top: 5rem !important; }
+# /* hide Streamlit chrome */
+# #MainMenu, header, footer { visibility: hidden; }
+# .block-container { padding-top: 5rem !important; }
 
 /* ── Typography ──────────────────────────────────────────────────── */
 h1 {
@@ -277,7 +277,7 @@ div[data-testid="stToast"] {
 .st-key-theme_toggle {
     position: fixed !important;
     top: 14px;
-    right: 18px;
+    left: 18px;
     z-index: 999999;
     width: auto !important;
 }
